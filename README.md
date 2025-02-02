@@ -3,11 +3,15 @@
 Welcome to the **Arad SMS API** documentation repository. This API provides robust and scalable solutions for sending, receiving, and managing SMS communications. With over **300 million messages processed daily**, our platform powers **60% of Iran's SMS traffic** and serves leading organizations such as **Asiatech**, **ArianTel**, **Jiring**, and major banks like **Bank Mellat**, **Bank Sepah**, **Bank Melli**, **Bank Saderat** and etc.
 
 ## Features
-- **Send SMS:** Single, bulk, and P2P message sending.
-- **Receive SMS:** Retrieve incoming messages with ease.
-- **Delivery Reports:** Track message delivery statuses in real-time.
-- **Advanced Reporting:** Generate detailed analytics and reports.
-- **Secure Authentication:** Multiple authentication methods including API Key, Bearer Token, and Basic Auth.
+- **Send SMS:** Send individual, bulk, and P2P (peer-to-peer) messages with flexible options.
+- **Receive SMS:** Retrieve and manage incoming messages (MO) effortlessly.
+- **Delivery Reports:** Monitor message delivery statuses in real-time for accurate tracking.
+- **Scheduled Messaging:** Schedule SMS deliveries for future dates and times.
+- **Pattern-Based Messaging:** Personalize messages using dynamic templates and predefined patterns.
+- **User Information:** Retrieve account details, including credits, sender IDs, and message limits.
+- **Utility Methods:** Use tools like IP checks and server health monitoring (Ping).
+- **Advanced Reporting:** Generate comprehensive analytics and detailed performance reports.
+- **Secure Authentication:** Multiple secure methods, including API Key, Bearer Token, and Basic Auth.
 
 ## Documentation
 For complete API documentation, refer to our Wiki pages:
