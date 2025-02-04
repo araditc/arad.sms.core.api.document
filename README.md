@@ -1,4 +1,4 @@
-# Arad SMS Hub Documentation
+# Arad SMS Platform Documentation
 
 Welcome to the **Arad SMS API** documentation repository. This API provides robust and scalable solutions for sending, receiving, and managing SMS communications. With over **300 million messages processed daily**, our platform powers **60% of Iran's SMS traffic** and serves leading organizations such as **Asiatech**, **ArianTel**, **Jiring**, and major banks like **Bank Mellat**, **Bank Sepah**, **Bank Melli**, **Bank Saderat** and etc.
 
