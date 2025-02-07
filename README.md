@@ -1,3 +1,21 @@
+# Arad Unified Messaging Platform
+
+🚀 **Secure, Scalable, and AI-Powered Messaging for Banks & Enterprises**
+
+Arad ITC’s Unified Messaging Platform is a carrier-grade solution designed for **banks, telecom providers, and enterprises**, offering **secure, scalable, and compliant messaging**.  
+
+🔗 **SlideShare Presentation:** [View on SlideShare](https://www.slideshare.net/slideshow/arad-unified-messaging-platform-secure-scalable-communication/275460251)  
+
+## 📌 Key Features
+- **End-to-End Encryption & Secure Transactions**
+- **Real-time Fraud Detection & AI-powered Security**
+- **Multi-Protocol Support: SMPP, MQTT, SIGTRAN, XMPP**
+- **GDPR & Financial Compliance (PCI DSS, AML, GDPR)**
+- **High Availability & Scalability (300M+ messages daily)**
+
+## 🔗 API & Integration
+We provide full API documentation and SDKs for integrating our messaging platform.
+
 # Arad SMS API Documentation
 
 Welcome to the **Arad SMS API** documentation repository. This API provides robust and scalable solutions for sending, receiving, and managing SMS communications. With over **300 million messages processed daily**, our platform powers **60% of Iran's SMS traffic** and serves leading organizations such as **Asiatech**, **ArianTel**, **Jiring**, and major banks like **Bank Mellat**, **Bank Sepah**, **Bank Melli**, **Bank Saderat** and etc.
