@@ -1,6 +1,6 @@
 # Arad SMS Core API
 
-This document describes the Arad SMS Core API for integrators. It is based on the previous Arad SMS Hub API and Monitoring API documents and the current API implementation in `V4.0_Codex`.
+This document describes the Arad SMS Core API for integrators. It is based on the previous Arad SMS Hub API and Monitoring API documents and the latest API implementation.
 
 ## Base URL and Versions
 

@@ -1,6 +1,6 @@
 # Arad SMS Core API Documentation
 
-This repository contains the public integration documentation for the Arad SMS Core API. The documentation has been refreshed from the legacy Hub API and Monitoring API documents and aligned with the current `V4.0_Codex` API service.
+This repository contains the public integration documentation for the Arad SMS Core API. The documentation has been refreshed from the legacy Hub API and Monitoring API documents and aligned with the latest API service version.
 
 ## Documentation
 
