@@ -26,4 +26,4 @@ This repository contains the public integration documentation for the Arad SMS C
 Arad ITC
 Web: <https://www.arad-itc.com>
 Email: info@arad-itc.org
-Phone: +98 31 91083200, +98 31 91083100
+Phone: +98 21 74391133
