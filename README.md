@@ -1,61 +1,29 @@
-# Arad Unified Messaging Platform
+# Arad SMS Core API Documentation
 
-🚀 **Secure, Scalable, and AI-Powered Messaging for Banks & Enterprises**
-
-Arad ITC’s Unified Messaging Platform is a carrier-grade solution designed for **banks, telecom providers, and enterprises**, offering **secure, scalable, and compliant messaging**.  
-
-🔗 **SlideShare Presentation:** [View on SlideShare](https://www.slideshare.net/slideshow/arad-unified-messaging-platform-secure-scalable-communication/275460251)  
-
-## 📌 Key Features
-- **End-to-End Encryption & Secure Transactions**
-- **Real-time Fraud Detection & AI-powered Security**
-- **Multi-Protocol Support: SMPP, MQTT, SIGTRAN, XMPP**
-- **GDPR & Financial Compliance (PCI DSS, AML, GDPR)**
-- **High Availability & Scalability (300M+ messages daily)**
-
-## 🔗 API & Integration
-We provide full API documentation and SDKs for integrating our messaging platform.
-
-# Arad SMS API Documentation
-
-Welcome to the **Arad SMS API** documentation repository. This API provides robust and scalable solutions for sending, receiving, and managing SMS communications. With over **300 million messages processed daily**, our platform powers **60% of Iran's SMS traffic** and serves leading organizations such as **Asiatech**, **ArianTel**, **Jiring**, and major banks like **Bank Mellat**, **Bank Sepah**, **Bank Melli**, **Bank Saderat** and etc.
-
-## Features
-- **Send SMS:** Send individual, bulk, and P2P (peer-to-peer) messages with flexible options.
-- **Receive SMS:** Retrieve and manage incoming messages (MO) effortlessly.
-- **Delivery Reports:** Monitor message delivery statuses in real-time for accurate tracking.
-- **Scheduled Messaging:** Schedule SMS deliveries for future dates and times.
-- **Pattern-Based Messaging:** Personalize messages using dynamic templates and predefined patterns.
-- **User Information:** Retrieve account details, including credits, sender IDs, and message limits.
-- **Utility Methods:** Use tools like IP checks and server health monitoring (Ping).
-- **Advanced Reporting:** Generate comprehensive analytics and detailed performance reports.
-- **Secure Authentication:** Multiple secure methods, including API Key, Bearer Token, and Basic Auth.
+This repository contains the public integration documentation for the Arad SMS Core API. The documentation has been refreshed from the legacy Hub API and Monitoring API documents and aligned with the current `V4.0_Codex` API service.
 
 ## Documentation
-For complete API documentation, refer to our Wiki pages:
 
-- [**English Documentation**](https://github.com/araditc/arad.sms.core.api.document/wiki/English)
-- [**مستندات فارسی**](https://github.com/araditc/arad.sms.core.api.document/wiki/%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C)
+- [English documentation](docs/en.md)
+- [مستندات فارسی](docs/fa.md)
 
-## Getting Started
-To start using the Arad SMS Hub API:
-1. **Register** on our platform.
-2. **Authenticate** using your preferred method.
-3. **Integrate** the API into your application.
+## Current API Surface
 
-## Contact & Support
-If you need assistance, please reach out to our support team:
+- Authentication by Bearer token, Basic authentication, or API key.
+- SMS send APIs for single, bulk, peer-to-peer bulk, whitelist, and pattern-based messages.
+- Pull APIs for delivery reports and incoming messages.
+- LiveData and monitoring APIs.
+- User, IP-check, Webengage, OTP, KYC, Smart SMS, phonebook, schedule, report, and support-ticket endpoints.
 
-**Phone:**
-- +98 31 91083200
-- +98 31 91083100 
+## Useful Links
 
-**Email:**
-- info@arad-itc.org
-  
-**Web:**
-- www.arad-itc.com
+- Swagger UI: `https://{baseAddress}/swagger/index.html`
+- Token endpoint: `POST https://{baseAddress}/connect/token`
+- Latest message API version: `v4.0`
 
----
+## Support
 
-Thank you for choosing **Arad SMS API**. We are committed to delivering reliable and efficient SMS solutions for your business needs.
+Arad ITC
+Web: <https://www.arad-itc.com>
+Email: info@arad-itc.org
+Phone: +98 31 91083200, +98 31 91083100
